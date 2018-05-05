@@ -1,2 +1,2 @@
 # BApps
-Brain Apps SDK
+Brain Enhancement Applications SDK
